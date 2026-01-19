@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "src/Pharmacy.css";
+import "./Pharmacy.css";
 
 function Pharmacy() {
   const [patientName, setPatientName] = useState("");

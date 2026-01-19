@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import Pharmacy from "./pages/Pharmacy";
-import Patient from "./pages/Patient";
+import Home from "./Home";
+import Pharmacy from "./Pharmacy";
+import Patient from "./Patient";
 
 
 function App() {

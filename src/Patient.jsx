@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { Html5Qrcode } from "html5-qrcode";
-import "src/Patient.css";
+import "./Patient.css";
 
 function Patient() {
   const [prescription, setPrescription] = useState(null);
